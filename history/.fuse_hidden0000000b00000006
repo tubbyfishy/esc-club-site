@@ -1,0 +1,496 @@
+<!DOCTYPE html>
+<html lang="en" id="top">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>History — ESC Club</title>
+<meta name="description" content="Explore the History of ESCEDU Club — drawing on more than 7 years of experiences, we tailor our services to each community member.">
+<link rel="icon" href="https://escedu.org/wp-content/uploads/2024/02/ESC-Club-Logo-print-300x300.png">
+<link href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700;900&family=Fraunces:wght@600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="../assets/css/style.css">
+<script>window.PAGE = { lang: 'en', root: '../', translations: { en: 'history/', zh: 'zh/history/', es: 'es/history/' } };</script>
+<style>
+  /* history-page-only: intro stats + timeline */
+  .stats { display: flex; gap: 34px; margin: 20px 0; }
+  .stats .num { font-size: 2rem; font-weight: 900; color: var(--teal-d); }
+  .stats .lbl { color: var(--muted); font-weight: 700; }
+  .tl-year { font-size: 2rem; margin: 44px 0 6px; color: var(--coral); }
+  .tl-entry { border-left: 4px solid var(--soft); padding-left: 20px; margin: 24px 0; }
+  .tl-entry .date { font-weight: 800; color: var(--teal-d); font-size: .9rem; letter-spacing: .05em; text-transform: uppercase; }
+</style>
+</head>
+<body>
+<a class="skip-link" href="#content">Skip to content</a>
+<div id="site-header"></div>
+
+<main id="content">
+  <section class="page-hero">
+    <div class="wrap">
+      <h1>Explore the History of ESCEDU Club</h1>
+      <p class="meta">Count on our Contributing track record</p>
+    </div>
+  </section>
+
+  <!-- ==================== CONTENT START ==================== -->
+  <article class="prose">
+
+    <!-- ===== SECTION: intro ===== -->
+    <p>Drawing on more than 7 years of experiences, we tailor our services to each community member.</p>
+    <p>Rely on our expertise and commitment to delivering excellence in tutoring and services.</p>
+    <div class="stats">
+      <div><div class="num">10+</div><div class="lbl">Years of History</div></div>
+      <div><div class="num">40+</div><div class="lbl">Team Members</div></div>
+    </div>
+    <img src="https://escedu.org/wp-content/uploads/2025/04/IMG_7732.jpeg" alt="ESC Club members">
+
+    <!-- ===== SECTION: timeline-2026 ===== -->
+    <h2 class="tl-year">2026</h2>
+
+    <div class="tl-entry">
+      <p class="date">June 18</p>
+      <h3><a href="../blog/esc-club-brings-stem-culture-and-cross-border-friendship-to-cwb-tijuana-summer-camp-day/">ESC Club Brings STEM, Culture, and Cross-Border Friendship to CWB Tijuana Summer Camp Day</a></h3>
+      <div class="gallery">
+        <a href="https://escedu.org/wp-content/uploads/2026/06/Group-Picuture-with-CWB-Jeff-RV-scaled.jpg"><img src="https://escedu.org/wp-content/uploads/2026/06/Group-Picuture-with-CWB-Jeff-RV-1024x628.jpg" alt=""></a>
+        <a href="https://escedu.org/wp-content/uploads/2026/06/ESC-club-cross-the-border-scaled.jpg"><img src="https://escedu.org/wp-content/uploads/2026/06/ESC-club-cross-the-border-1024x768.jpg" alt=""></a>
+        <a href="https://escedu.org/wp-content/uploads/2026/06/Happy-four-ESC-club-member-on-the-truck-2-scaled.jpg"><img src="https://escedu.org/wp-content/uploads/2026/06/Happy-four-ESC-club-member-on-the-truck-2-768x1024.jpg" alt=""></a>
+        <a href="https://escedu.org/wp-content/uploads/2026/06/ESCCWB-26-summer-workshop-flyer-06182026-scaled.jpg"><img src="https://escedu.org/wp-content/uploads/2026/06/ESCCWB-26-summer-workshop-flyer-06182026-791x1024.jpg" alt=""></a>
+        <a href="https://escedu.org/wp-content/uploads/2026/06/Openign-ceremony-Jeff-speech.jpg"><img src="https://escedu.org/wp-content/uploads/2026/06/Openign-ceremony-Jeff-speech-1024x768.jpg" alt=""></a>
+        <a href="https://escedu.org/wp-content/uploads/2026/06/Alex-3D-class.jpeg"><img src="https://escedu.org/wp-content/uploads/2026/06/Alex-3D-class-1024x768.jpeg" alt=""></a>
+        <a href="https://escedu.org/wp-content/uploads/2026/06/Father-Son-at-3D-printer-class.jpg"><img src="https://escedu.org/wp-content/uploads/2026/06/Father-Son-at-3D-printer-class-1024x768.jpg" alt=""></a>
+        <a href="https://escedu.org/wp-content/uploads/2026/06/Andy-Junpeng-in-Coding-class-scaled.jpg"><img src="https://escedu.org/wp-content/uploads/2026/06/Andy-Junpeng-in-Coding-class-1024x768.jpg" alt=""></a>
+        <a href="https://escedu.org/wp-content/uploads/2026/06/Coding-class-5-scaled.jpg"><img src="https://escedu.org/wp-content/uploads/2026/06/Coding-class-5-768x1024.jpg" alt=""></a>
+        <a href="https://escedu.org/wp-content/uploads/2026/06/Coding-class-2.jpg"><img src="https://escedu.org/wp-content/uploads/2026/06/Coding-class-2-768x1024.jpg" alt=""></a>
+        <a href="https://escedu.org/wp-content/uploads/2026/06/Robotic-demo.jpg"><img src="https://escedu.org/wp-content/uploads/2026/06/Robotic-demo-1024x768.jpg" alt=""></a>
+        <a href="https://escedu.org/wp-content/uploads/2026/06/Ms-Cici-at-papercutting-class-2.jpg"><img src="https://escedu.org/wp-content/uploads/2026/06/Ms-Cici-at-papercutting-class-2-1024x768.jpg" alt=""></a>
+        <a href="https://escedu.org/wp-content/uploads/2026/06/Chinese-paper-cutting-Ana-3-scaled.jpg"><img src="https://escedu.org/wp-content/uploads/2026/06/Chinese-paper-cutting-Ana-3-768x1024.jpg" alt=""></a>
+        <a href="https://escedu.org/wp-content/uploads/2026/06/Chinese-paper-cutting-2.jpg"><img src="https://escedu.org/wp-content/uploads/2026/06/Chinese-paper-cutting-2-1024x768.jpg" alt=""></a>
+        <a href="https://escedu.org/wp-content/uploads/2026/06/Taco-lunch-Jeff-Diego-Cici.jpg"><img src="https://escedu.org/wp-content/uploads/2026/06/Taco-lunch-Jeff-Diego-Cici-1024x833.jpg" alt=""></a>
+        <a href="https://escedu.org/wp-content/uploads/2026/06/Taco-time-lunch.jpg"><img src="https://escedu.org/wp-content/uploads/2026/06/Taco-time-lunch-1024x768.jpg" alt=""></a>
+        <a href="https://escedu.org/wp-content/uploads/2026/06/Taco-time-lunch-3-scaled.jpg"><img src="https://escedu.org/wp-content/uploads/2026/06/Taco-time-lunch-3-1024x768.jpg" alt=""></a>
+        <a href="https://escedu.org/wp-content/uploads/2026/06/CWB-Story-tellling-time.jpg"><img src="https://escedu.org/wp-content/uploads/2026/06/CWB-Story-tellling-time-1024x768.jpg" alt=""></a>
+        <a href="https://escedu.org/wp-content/uploads/2026/06/Alex-interviewed.jpeg"><img src="https://escedu.org/wp-content/uploads/2026/06/Alex-interviewed-768x1024.jpeg" alt=""></a>
+        <a href="https://escedu.org/wp-content/uploads/2026/06/Ana-with-CWB-student.jpg"><img src="https://escedu.org/wp-content/uploads/2026/06/Ana-with-CWB-student-768x1024.jpg" alt=""></a>
+        <a href="https://escedu.org/wp-content/uploads/2026/06/3D-printer-donation-rotated.jpeg"><img src="https://escedu.org/wp-content/uploads/2026/06/3D-printer-donation-rotated.jpeg" alt=""></a>
+        <a href="https://escedu.org/wp-content/uploads/2026/06/Ice-Bar-time-with-Jeff-scaled.jpg"><img src="https://escedu.org/wp-content/uploads/2026/06/Ice-Bar-time-with-Jeff-768x1024.jpg" alt=""></a>
+        <a href="https://escedu.org/wp-content/uploads/2026/06/Robotic-demo-3-scaled.jpg"><img src="https://escedu.org/wp-content/uploads/2026/06/Robotic-demo-3-1024x768.jpg" alt=""></a>
+      </div>
+      <p>ESC Club proudly returned to CWB School in Tijuana on June 18, 2026, for its second annual Cross-Border STEM &amp; Culture Camp Day, continuing its mission of promoting equal access to STEM education and cultural exchange for youth along the U.S.-Mexico border.</p>
+    </div>
+
+    <div class="tl-entry">
+      <p class="date">June 7</p>
+      <h3><a href="../blog/esc-club-and-riverview-international-academy-celebrate-culture-community-and-learning-at-the-2026-summer-culture-day/">ESC Club and Riverview International Academy Celebrate the 2026 Summer Culture Day</a></h3>
+      <div class="gallery">
+        <a href="https://escedu.org/wp-content/uploads/2026/06/RIA-pricinpal-speech-1.jpeg"><img src="https://escedu.org/wp-content/uploads/2026/06/RIA-pricinpal-speech-1-1024x768.jpeg" alt=""></a>
+        <a href="https://escedu.org/wp-content/uploads/2026/06/IMG_3635.jpeg"><img src="https://escedu.org/wp-content/uploads/2026/06/IMG_3635-1024x768.jpeg" alt=""></a>
+        <a href="https://escedu.org/wp-content/uploads/2026/06/841.jpg"><img src="https://escedu.org/wp-content/uploads/2026/06/841-768x1024.jpg" alt=""></a>
+        <a href="https://escedu.org/wp-content/uploads/2026/06/IMG_3659.jpeg"><img src="https://escedu.org/wp-content/uploads/2026/06/IMG_3659-1024x768.jpeg" alt=""></a>
+        <a href="https://escedu.org/wp-content/uploads/2026/06/RIA-kids-interviewed-by-Jourlist.jpeg"><img src="https://escedu.org/wp-content/uploads/2026/06/RIA-kids-interviewed-by-Jourlist-1024x768.jpeg" alt=""></a>
+        <a href="https://escedu.org/wp-content/uploads/2026/06/6.jpg"><img src="https://escedu.org/wp-content/uploads/2026/06/6-1024x683.jpg" alt=""></a>
+        <a href="https://escedu.org/wp-content/uploads/2026/06/781-1.jpg"><img src="https://escedu.org/wp-content/uploads/2026/06/781-1-768x1024.jpg" alt=""></a>
+        <a href="https://escedu.org/wp-content/uploads/2026/06/797.jpeg"><img src="https://escedu.org/wp-content/uploads/2026/06/797-1024x768.jpeg" alt=""></a>
+        <a href="https://escedu.org/wp-content/uploads/2026/06/867.jpeg"><img src="https://escedu.org/wp-content/uploads/2026/06/867-768x1024.jpeg" alt=""></a>
+        <a href="https://escedu.org/wp-content/uploads/2026/06/816.jpeg"><img src="https://escedu.org/wp-content/uploads/2026/06/816-1024x768.jpeg" alt=""></a>
+        <a href="https://escedu.org/wp-content/uploads/2026/06/773.jpg"><img src="https://escedu.org/wp-content/uploads/2026/06/773-1024x768.jpg" alt=""></a>
+        <a href="https://escedu.org/wp-content/uploads/2026/06/775.jpg"><img src="https://escedu.org/wp-content/uploads/2026/06/775-1024x768.jpg" alt=""></a>
+      </div>
+      <p>ESC Club proudly partnered with Riverview International Academy (RIA) to host the 2026 Summer Culture Day on the RIA campus, bringing together students, families, educators, and community leaders for a vibrant celebration of multicultural learning and Chinese cultural heritage.</p>
+    </div>
+
+    <div class="tl-entry">
+      <p class="date">June 6</p>
+      <h3><a href="../blog/esc-club-hosts-stem-learning-day-for-san-diego-navy-families/">STEM Learning Day for San Diego Navy Families</a></h3>
+      <figure>
+        <a href="https://escedu.org/wp-content/uploads/2026/06/1367.jpg"><img src="https://escedu.org/wp-content/uploads/2026/06/1367-1024x768.jpg" alt="Navy STEM Day 060626"></a>
+        <figcaption>Navy STEM workshop day 06062026</figcaption>
+      </figure>
+      <p>ESC Club proudly hosted a STEM Learning Day for San Diego Navy Families on June 6, 2026, welcoming approximately 20 Navy families and their children to the ESC Club Chula Vista office for an engaging and educational STEM experience.</p>
+    </div>
+
+    <div class="tl-entry">
+      <p class="date">April 22</p>
+      <h3><a href="../blog/esc-club-cac-winners-represent-ca-52-district-at-the-u-s-capitol-for-house-of-code-2026/">ESC Club CAC Winners Represent CA-52 district at the U.S. Capitol for House of Code 2026</a></h3>
+      <a href="https://escedu.org/wp-content/uploads/2026/04/TEAM-CA-52-at-CAC-registration.jpeg"><img src="https://escedu.org/wp-content/uploads/2026/04/TEAM-CA-52-at-CAC-registration-1024x768.jpeg" alt="ESC Club CAC Winners Represent CA-52 district at the U.S. Capitol for House of Code 2026"></a>
+    </div>
+
+    <div class="tl-entry">
+      <p class="date">February 15</p>
+      <h3><a href="../blog/esc-club-riverview-international-academy-host-2026-lunar-new-year-festival-celebrating-culture-stem-and-community/">ESC Club &amp; Riverview International Academy Host 2026 Lunar New Year Festival Celebrating Culture, STEM, and Community</a></h3>
+      <div class="gallery">
+        <a href="https://escedu.org/wp-content/uploads/2026/02/Image_20260216145510_494_1017.jpg"><img src="https://escedu.org/wp-content/uploads/2026/02/Image_20260216145510_494_1017-1024x768.jpg" alt=""></a>
+        <a href="https://escedu.org/wp-content/uploads/2026/02/Image_20260215124048_321_1017-1.jpg"><img src="https://escedu.org/wp-content/uploads/2026/02/Image_20260215124048_321_1017-1-1024x768.jpg" alt=""></a>
+        <a href="https://escedu.org/wp-content/uploads/2026/02/Image_20260216145524_501_1017.jpg"><img src="https://escedu.org/wp-content/uploads/2026/02/Image_20260216145524_501_1017-1024x768.jpg" alt=""></a>
+        <a href="https://escedu.org/wp-content/uploads/2026/02/Image_20260215163041_476_1017.jpg"><img src="https://escedu.org/wp-content/uploads/2026/02/Image_20260215163041_476_1017-768x1024.jpg" alt=""></a>
+        <a href="https://escedu.org/wp-content/uploads/2026/02/Image_20260215123945_293_1017-1.jpg"><img src="https://escedu.org/wp-content/uploads/2026/02/Image_20260215123945_293_1017-1-768x1024.jpg" alt=""></a>
+        <a href="https://escedu.org/wp-content/uploads/2026/02/Opening-speach-ESC.jpg"><img src="https://escedu.org/wp-content/uploads/2026/02/Opening-speach-ESC-1024x768.jpg" alt=""></a>
+        <a href="https://escedu.org/wp-content/uploads/2026/02/Image_20260215163039_475_1017.jpg"><img src="https://escedu.org/wp-content/uploads/2026/02/Image_20260215163039_475_1017-768x1024.jpg" alt=""></a>
+        <a href="https://escedu.org/wp-content/uploads/2026/02/Image_20260215163038_474_1017.jpg"><img src="https://escedu.org/wp-content/uploads/2026/02/Image_20260215163038_474_1017-1024x768.jpg" alt=""></a>
+        <a href="https://escedu.org/wp-content/uploads/2026/02/Image_20260215163036_473_1017.jpg"><img src="https://escedu.org/wp-content/uploads/2026/02/Image_20260215163036_473_1017-768x1024.jpg" alt=""></a>
+        <a href="https://escedu.org/wp-content/uploads/2026/02/Image_20260215163025_462_1017.jpg"><img src="https://escedu.org/wp-content/uploads/2026/02/Image_20260215163025_462_1017-768x1024.jpg" alt=""></a>
+        <a href="https://escedu.org/wp-content/uploads/2026/02/Image_20260215163023_461_1017.jpg"><img src="https://escedu.org/wp-content/uploads/2026/02/Image_20260215163023_461_1017-768x1024.jpg" alt=""></a>
+        <a href="https://escedu.org/wp-content/uploads/2026/02/Image_20260215163026_463_1017.jpg"><img src="https://escedu.org/wp-content/uploads/2026/02/Image_20260215163026_463_1017-768x1024.jpg" alt=""></a>
+        <a href="https://escedu.org/wp-content/uploads/2026/02/Image_20260215163027_465_1017.jpg"><img src="https://escedu.org/wp-content/uploads/2026/02/Image_20260215163027_465_1017-768x1024.jpg" alt=""></a>
+        <a href="https://escedu.org/wp-content/uploads/2026/02/Image_20260215163031_468_1017.jpg"><img src="https://escedu.org/wp-content/uploads/2026/02/Image_20260215163031_468_1017-1024x768.jpg" alt=""></a>
+        <a href="https://escedu.org/wp-content/uploads/2026/02/Image_20260215163012_452_1017.jpg"><img src="https://escedu.org/wp-content/uploads/2026/02/Image_20260215163012_452_1017-1024x768.jpg" alt=""></a>
+        <a href="https://escedu.org/wp-content/uploads/2026/02/Image_20260215163013_453_1017.jpg"><img src="https://escedu.org/wp-content/uploads/2026/02/Image_20260215163013_453_1017-768x1024.jpg" alt=""></a>
+        <a href="https://escedu.org/wp-content/uploads/2026/02/Image_20260215163016_455_1017.jpg"><img src="https://escedu.org/wp-content/uploads/2026/02/Image_20260215163016_455_1017-768x1024.jpg" alt=""></a>
+        <a href="https://escedu.org/wp-content/uploads/2026/02/Image_20260215163021_459_1017.jpg"><img src="https://escedu.org/wp-content/uploads/2026/02/Image_20260215163021_459_1017-768x1024.jpg" alt=""></a>
+        <a href="https://escedu.org/wp-content/uploads/2026/02/Image_20260215163022_460_1017.jpg"><img src="https://escedu.org/wp-content/uploads/2026/02/Image_20260215163022_460_1017-768x1024.jpg" alt=""></a>
+        <a href="https://escedu.org/wp-content/uploads/2026/02/Image_20260215163009_449_1017.jpg"><img src="https://escedu.org/wp-content/uploads/2026/02/Image_20260215163009_449_1017-1024x768.jpg" alt=""></a>
+        <a href="https://escedu.org/wp-content/uploads/2026/02/Image_20260215163011_450_1017.jpg"><img src="https://escedu.org/wp-content/uploads/2026/02/Image_20260215163011_450_1017-768x1024.jpg" alt=""></a>
+        <a href="https://escedu.org/wp-content/uploads/2026/02/Image_20260215143839_442_1017.jpg"><img src="https://escedu.org/wp-content/uploads/2026/02/Image_20260215143839_442_1017-1024x768.jpg" alt=""></a>
+        <a href="https://escedu.org/wp-content/uploads/2026/02/Image_20260215143746_417_1017.jpg"><img src="https://escedu.org/wp-content/uploads/2026/02/Image_20260215143746_417_1017-1024x768.jpg" alt=""></a>
+        <a href="https://escedu.org/wp-content/uploads/2026/02/Image_20260215143712_396_1017.jpg"><img src="https://escedu.org/wp-content/uploads/2026/02/Image_20260215143712_396_1017-768x1024.jpg" alt=""></a>
+        <a href="https://escedu.org/wp-content/uploads/2026/02/Image_20260215143713_397_1017.jpg"><img src="https://escedu.org/wp-content/uploads/2026/02/Image_20260215143713_397_1017-768x1024.jpg" alt=""></a>
+        <a href="https://escedu.org/wp-content/uploads/2026/02/Image_20260215143715_398_1017.jpg"><img src="https://escedu.org/wp-content/uploads/2026/02/Image_20260215143715_398_1017-1024x768.jpg" alt=""></a>
+        <a href="https://escedu.org/wp-content/uploads/2026/02/Image_20260215143718_400_1017.jpg"><img src="https://escedu.org/wp-content/uploads/2026/02/Image_20260215143718_400_1017-768x1024.jpg" alt=""></a>
+        <a href="https://escedu.org/wp-content/uploads/2026/02/Image_20260215143720_401_1017.jpg"><img src="https://escedu.org/wp-content/uploads/2026/02/Image_20260215143720_401_1017-768x1024.jpg" alt=""></a>
+        <a href="https://escedu.org/wp-content/uploads/2026/02/Image_20260215143741_414_1017.jpg"><img src="https://escedu.org/wp-content/uploads/2026/02/Image_20260215143741_414_1017-1024x768.jpg" alt=""></a>
+        <a href="https://escedu.org/wp-content/uploads/2026/02/Image_20260215143710_395_1017.jpg"><img src="https://escedu.org/wp-content/uploads/2026/02/Image_20260215143710_395_1017-1024x768.jpg" alt=""></a>
+        <a href="https://escedu.org/wp-content/uploads/2026/02/Image_20260215143709_394_1017.jpg"><img src="https://escedu.org/wp-content/uploads/2026/02/Image_20260215143709_394_1017-1024x768.jpg" alt=""></a>
+        <a href="https://escedu.org/wp-content/uploads/2026/02/Image_20260215143705_392_1017.jpg"><img src="https://escedu.org/wp-content/uploads/2026/02/Image_20260215143705_392_1017-768x1024.jpg" alt=""></a>
+        <a href="https://escedu.org/wp-content/uploads/2026/02/Image_20260215141010_374_1017.jpg"><img src="https://escedu.org/wp-content/uploads/2026/02/Image_20260215141010_374_1017-1024x768.jpg" alt=""></a>
+        <a href="https://escedu.org/wp-content/uploads/2026/02/Image_20260215141009_373_1017.jpg"><img src="https://escedu.org/wp-content/uploads/2026/02/Image_20260215141009_373_1017-1024x768.jpg" alt=""></a>
+        <a href="https://escedu.org/wp-content/uploads/2026/02/Image_20260215141007_371_1017.jpg"><img src="https://escedu.org/wp-content/uploads/2026/02/Image_20260215141007_371_1017-1024x768.jpg" alt=""></a>
+        <a href="https://escedu.org/wp-content/uploads/2026/02/Image_20260215124111_332_1017.jpg"><img src="https://escedu.org/wp-content/uploads/2026/02/Image_20260215124111_332_1017-768x1024.jpg" alt=""></a>
+        <a href="https://escedu.org/wp-content/uploads/2026/02/Image_20260215124115_334_1017.jpg"><img src="https://escedu.org/wp-content/uploads/2026/02/Image_20260215124115_334_1017-1024x768.jpg" alt=""></a>
+        <a href="https://escedu.org/wp-content/uploads/2026/02/Image_20260215124117_335_1017.jpg"><img src="https://escedu.org/wp-content/uploads/2026/02/Image_20260215124117_335_1017-768x1024.jpg" alt=""></a>
+        <a href="https://escedu.org/wp-content/uploads/2026/02/Image_20260215124134_340_1017-scaled.jpg"><img src="https://escedu.org/wp-content/uploads/2026/02/Image_20260215124134_340_1017-869x1024.jpg" alt=""></a>
+        <a href="https://escedu.org/wp-content/uploads/2026/02/Image_20260215124138_341_1017.jpg"><img src="https://escedu.org/wp-content/uploads/2026/02/Image_20260215124138_341_1017-1024x893.jpg" alt=""></a>
+        <a href="https://escedu.org/wp-content/uploads/2026/02/Image_20260215124142_342_1017-scaled.jpg"><img src="https://escedu.org/wp-content/uploads/2026/02/Image_20260215124142_342_1017-1024x768.jpg" alt=""></a>
+        <a href="https://escedu.org/wp-content/uploads/2026/02/Image_20260215124109_331_1017.jpg"><img src="https://escedu.org/wp-content/uploads/2026/02/Image_20260215124109_331_1017-1024x768.jpg" alt=""></a>
+        <a href="https://escedu.org/wp-content/uploads/2026/02/Image_20260215124101_327_1017.jpg"><img src="https://escedu.org/wp-content/uploads/2026/02/Image_20260215124101_327_1017-768x1024.jpg" alt=""></a>
+        <a href="https://escedu.org/wp-content/uploads/2026/02/Image_20260215124059_326_1017.jpg"><img src="https://escedu.org/wp-content/uploads/2026/02/Image_20260215124059_326_1017-1024x768.jpg" alt=""></a>
+        <a href="https://escedu.org/wp-content/uploads/2026/02/Image_20260215124057_325_1017.jpg"><img src="https://escedu.org/wp-content/uploads/2026/02/Image_20260215124057_325_1017-768x1024.jpg" alt=""></a>
+        <a href="https://escedu.org/wp-content/uploads/2026/02/Image_20260215124054_324_1017.jpg"><img src="https://escedu.org/wp-content/uploads/2026/02/Image_20260215124054_324_1017-768x1024.jpg" alt=""></a>
+        <a href="https://escedu.org/wp-content/uploads/2026/02/Image_20260215124052_323_1017.jpg"><img src="https://escedu.org/wp-content/uploads/2026/02/Image_20260215124052_323_1017-1024x768.jpg" alt=""></a>
+        <a href="https://escedu.org/wp-content/uploads/2026/02/Image_20260215124037_316_1017.jpg"><img src="https://escedu.org/wp-content/uploads/2026/02/Image_20260215124037_316_1017-768x1024.jpg" alt=""></a>
+        <a href="https://escedu.org/wp-content/uploads/2026/02/Image_20260215124039_317_1017.jpg"><img src="https://escedu.org/wp-content/uploads/2026/02/Image_20260215124039_317_1017-768x1024.jpg" alt=""></a>
+        <a href="https://escedu.org/wp-content/uploads/2026/02/Image_20260215124043_319_1017.jpg"><img src="https://escedu.org/wp-content/uploads/2026/02/Image_20260215124043_319_1017-1024x768.jpg" alt=""></a>
+        <a href="https://escedu.org/wp-content/uploads/2026/02/Image_20260215124045_320_1017-scaled.jpg"><img src="https://escedu.org/wp-content/uploads/2026/02/Image_20260215124045_320_1017-1024x871.jpg" alt=""></a>
+        <a href="https://escedu.org/wp-content/uploads/2026/02/Image_20260215124048_321_1017.jpg"><img src="https://escedu.org/wp-content/uploads/2026/02/Image_20260215124048_321_1017-1024x768.jpg" alt=""></a>
+        <a href="https://escedu.org/wp-content/uploads/2026/02/Image_20260215124029_312_1017.jpg"><img src="https://escedu.org/wp-content/uploads/2026/02/Image_20260215124029_312_1017-1024x768.jpg" alt=""></a>
+        <a href="https://escedu.org/wp-content/uploads/2026/02/Image_20260215124027_311_1017.jpg"><img src="https://escedu.org/wp-content/uploads/2026/02/Image_20260215124027_311_1017-1024x768.jpg" alt=""></a>
+        <a href="https://escedu.org/wp-content/uploads/2026/02/Image_20260215124024_310_1017.jpg"><img src="https://escedu.org/wp-content/uploads/2026/02/Image_20260215124024_310_1017-1024x768.jpg" alt=""></a>
+        <a href="https://escedu.org/wp-content/uploads/2026/02/Image_20260215124022_309_1017.jpg"><img src="https://escedu.org/wp-content/uploads/2026/02/Image_20260215124022_309_1017-1024x768.jpg" alt=""></a>
+        <a href="https://escedu.org/wp-content/uploads/2026/02/Image_20260215124035_315_1017.jpg"><img src="https://escedu.org/wp-content/uploads/2026/02/Image_20260215124035_315_1017-1024x768.jpg" alt=""></a>
+        <a href="https://escedu.org/wp-content/uploads/2026/02/Image_20260215124020_308_1017.jpg"><img src="https://escedu.org/wp-content/uploads/2026/02/Image_20260215124020_308_1017-1024x768.jpg" alt=""></a>
+        <a href="https://escedu.org/wp-content/uploads/2026/02/Image_20260215124017_307_1017-scaled.jpg"><img src="https://escedu.org/wp-content/uploads/2026/02/Image_20260215124017_307_1017-1024x768.jpg" alt=""></a>
+      </div>
+    </div>
+
+    <div class="tl-entry">
+      <p class="date">January 24</p>
+      <h3><a href="../blog/esc-club-hosts-cross-border-stem-cultural-exchange-event-at-cwb-academy-tijuana/">Hosts Cross-Border STEM &amp; Cultural Exchange Event at CWB Academy, Tijuana</a></h3>
+      <div class="gallery">
+        <a href="https://escedu.org/wp-content/uploads/2026/01/CW-ESC-club-Luna-New-Year-festival-01242026-1.jpg"><img src="https://escedu.org/wp-content/uploads/2026/01/CW-ESC-club-Luna-New-Year-festival-01242026-1.jpg" alt=""></a>
+        <a href="https://escedu.org/wp-content/uploads/2026/01/MX-border-for-ESC-club.jpeg"><img src="https://escedu.org/wp-content/uploads/2026/01/MX-border-for-ESC-club.jpeg" alt=""></a>
+        <a href="https://escedu.org/wp-content/uploads/2026/01/IMG_1610.jpeg"><img src="https://escedu.org/wp-content/uploads/2026/01/IMG_1610.jpeg" alt=""></a>
+        <a href="https://escedu.org/wp-content/uploads/2026/01/ESC-with-CWB-12th-grade-student.jpg"><img src="https://escedu.org/wp-content/uploads/2026/01/ESC-with-CWB-12th-grade-student-1024x768.jpg" alt=""></a>
+        <a href="https://escedu.org/wp-content/uploads/2026/01/Jonathan-with-the-ESC-Banner-01262026.jpg"><img src="https://escedu.org/wp-content/uploads/2026/01/Jonathan-with-the-ESC-Banner-01262026-1024x768.jpg" alt=""></a>
+        <a href="https://escedu.org/wp-content/uploads/2026/01/Image_20260124185245_210_2371.jpg"><img src="https://escedu.org/wp-content/uploads/2026/01/Image_20260124185245_210_2371-1024x768.jpg" alt=""></a>
+        <a href="https://escedu.org/wp-content/uploads/2026/01/Image_20260124185256_219_2371.jpg"><img src="https://escedu.org/wp-content/uploads/2026/01/Image_20260124185256_219_2371-1024x768.jpg" alt=""></a>
+        <a href="https://escedu.org/wp-content/uploads/2026/01/Image_20260124185232_200_2371.jpg"><img src="https://escedu.org/wp-content/uploads/2026/01/Image_20260124185232_200_2371-768x1024.jpg" alt=""></a>
+        <a href="https://escedu.org/wp-content/uploads/2026/01/Image_20260124185250_214_2371.jpg"><img src="https://escedu.org/wp-content/uploads/2026/01/Image_20260124185250_214_2371-768x1024.jpg" alt=""></a>
+        <a href="https://escedu.org/wp-content/uploads/2026/01/Image_20260124185253_216_2371.jpg"><img src="https://escedu.org/wp-content/uploads/2026/01/Image_20260124185253_216_2371-1024x768.jpg" alt=""></a>
+        <a href="https://escedu.org/wp-content/uploads/2026/01/IMG_1660.jpeg"><img src="https://escedu.org/wp-content/uploads/2026/01/IMG_1660.jpeg" alt=""></a>
+        <a href="https://escedu.org/wp-content/uploads/2026/01/IMG_1639.jpeg"><img src="https://escedu.org/wp-content/uploads/2026/01/IMG_1639.jpeg" alt=""></a>
+        <a href="https://escedu.org/wp-content/uploads/2026/01/IMG_1649.jpeg"><img src="https://escedu.org/wp-content/uploads/2026/01/IMG_1649.jpeg" alt=""></a>
+        <a href="https://escedu.org/wp-content/uploads/2026/01/IMG_1678.jpeg"><img src="https://escedu.org/wp-content/uploads/2026/01/IMG_1678-768x1024.jpeg" alt=""></a>
+        <a href="https://escedu.org/wp-content/uploads/2026/01/Image_20260125122030_281_2371.jpg"><img src="https://escedu.org/wp-content/uploads/2026/01/Image_20260125122030_281_2371-768x1024.jpg" alt=""></a>
+        <a href="https://escedu.org/wp-content/uploads/2026/01/kids-with-3D-item.jpeg"><img src="https://escedu.org/wp-content/uploads/2026/01/kids-with-3D-item.jpeg" alt=""></a>
+        <a href="https://escedu.org/wp-content/uploads/2026/01/Quiz-Time-3.jpg"><img src="https://escedu.org/wp-content/uploads/2026/01/Quiz-Time-3-1024x768.jpg" alt=""></a>
+        <a href="https://escedu.org/wp-content/uploads/2026/01/Coding-Class-recapture.jpg"><img src="https://escedu.org/wp-content/uploads/2026/01/Coding-Class-recapture-1024x768.jpg" alt=""></a>
+        <a href="https://escedu.org/wp-content/uploads/2026/01/Coding-Class-recapture-2.jpg"><img src="https://escedu.org/wp-content/uploads/2026/01/Coding-Class-recapture-2-1024x768.jpg" alt=""></a>
+        <a href="https://escedu.org/wp-content/uploads/2026/01/Coding-Class-recapture-6.jpg"><img src="https://escedu.org/wp-content/uploads/2026/01/Coding-Class-recapture-6-1024x768.jpg" alt=""></a>
+        <a href="https://escedu.org/wp-content/uploads/2026/01/Coding-Class-recapture-student2.jpg"><img src="https://escedu.org/wp-content/uploads/2026/01/Coding-Class-recapture-student2-1024x768.jpg" alt=""></a>
+        <a href="https://escedu.org/wp-content/uploads/2026/01/Coding-Class-setup.jpg"><img src="https://escedu.org/wp-content/uploads/2026/01/Coding-Class-setup-768x1024.jpg" alt=""></a>
+        <a href="https://escedu.org/wp-content/uploads/2026/01/Coding-Class-recapture-student.jpg"><img src="https://escedu.org/wp-content/uploads/2026/01/Coding-Class-recapture-student-1024x768.jpg" alt=""></a>
+        <a href="https://escedu.org/wp-content/uploads/2026/01/Image_20260124120555_112_2371.jpg"><img src="https://escedu.org/wp-content/uploads/2026/01/Image_20260124120555_112_2371-1024x768.jpg" alt=""></a>
+        <a href="https://escedu.org/wp-content/uploads/2026/01/Image_20260124120557_113_2371.jpg"><img src="https://escedu.org/wp-content/uploads/2026/01/Image_20260124120557_113_2371-1024x768.jpg" alt=""></a>
+        <a href="https://escedu.org/wp-content/uploads/2026/01/Shurikan-Rolling-Tangyuan.jpeg"><img src="https://escedu.org/wp-content/uploads/2026/01/Shurikan-Rolling-Tangyuan-1024x768.jpeg" alt=""></a>
+        <a href="https://escedu.org/wp-content/uploads/2026/01/Full-view-for-rolling-Tangyuan-class.jpg"><img src="https://escedu.org/wp-content/uploads/2026/01/Full-view-for-rolling-Tangyuan-class-1024x768.jpg" alt=""></a>
+        <a href="https://escedu.org/wp-content/uploads/2026/01/IMG_1685.jpeg"><img src="https://escedu.org/wp-content/uploads/2026/01/IMG_1685.jpeg" alt=""></a>
+        <a href="https://escedu.org/wp-content/uploads/2026/01/IMG_1669.jpeg"><img src="https://escedu.org/wp-content/uploads/2026/01/IMG_1669.jpeg" alt=""></a>
+        <a href="https://escedu.org/wp-content/uploads/2026/01/Girl-corner-rolling-Tangyuan.jpg"><img src="https://escedu.org/wp-content/uploads/2026/01/Girl-corner-rolling-Tangyuan-1024x768.jpg" alt=""></a>
+        <a href="https://escedu.org/wp-content/uploads/2026/01/Image_20260124185321_239_2371.jpg"><img src="https://escedu.org/wp-content/uploads/2026/01/Image_20260124185321_239_2371-768x1024.jpg" alt=""></a>
+        <a href="https://escedu.org/wp-content/uploads/2026/01/Image_20260124185304_226_2371.jpg"><img src="https://escedu.org/wp-content/uploads/2026/01/Image_20260124185304_226_2371-1024x768.jpg" alt=""></a>
+        <a href="https://escedu.org/wp-content/uploads/2026/01/IMG_1653.jpeg"><img src="https://escedu.org/wp-content/uploads/2026/01/IMG_1653.jpeg" alt=""></a>
+        <a href="https://escedu.org/wp-content/uploads/2026/01/IMG_1666.jpeg"><img src="https://escedu.org/wp-content/uploads/2026/01/IMG_1666.jpeg" alt=""></a>
+        <a href="https://escedu.org/wp-content/uploads/2026/01/CWB-Teacher-prepare-for-food-table.jpeg"><img src="https://escedu.org/wp-content/uploads/2026/01/CWB-Teacher-prepare-for-food-table.jpeg" alt=""></a>
+        <a href="https://escedu.org/wp-content/uploads/2026/01/IMG_1664.jpeg"><img src="https://escedu.org/wp-content/uploads/2026/01/IMG_1664.jpeg" alt=""></a>
+        <a href="https://escedu.org/wp-content/uploads/2026/01/IMG_1663.jpeg"><img src="https://escedu.org/wp-content/uploads/2026/01/IMG_1663.jpeg" alt=""></a>
+        <a href="https://escedu.org/wp-content/uploads/2026/01/boiling-Tangyuan.jpg"><img src="https://escedu.org/wp-content/uploads/2026/01/boiling-Tangyuan-768x1024.jpg" alt=""></a>
+        <a href="https://escedu.org/wp-content/uploads/2026/01/IMG_1654.jpeg"><img src="https://escedu.org/wp-content/uploads/2026/01/IMG_1654.jpeg" alt=""></a>
+        <a href="https://escedu.org/wp-content/uploads/2026/01/IMG_1680.jpeg"><img src="https://escedu.org/wp-content/uploads/2026/01/IMG_1680.jpeg" alt=""></a>
+        <a href="https://escedu.org/wp-content/uploads/2026/01/Image_20260124185309_230_2371.jpg"><img src="https://escedu.org/wp-content/uploads/2026/01/Image_20260124185309_230_2371-1024x768.jpg" alt=""></a>
+      </div>
+    </div>
+
+    <!-- ===== SECTION: timeline-2025 ===== -->
+    <h2 class="tl-year">2025</h2>
+
+    <div class="tl-entry">
+      <p class="date">December 30</p>
+      <h3><a href="../blog/esc-club-launches-2026-new-year-stem-program-with-3d-printing-workshop-at-mira-mesa-library/">ESC Club Launches 2026 New Year STEM Program with 3D Printing Workshop at Mira Mesa Library</a></h3>
+      <img src="https://escedu.org/wp-content/uploads/2025/12/Junpeng-Alex-for-3D-printing.jpeg" alt="ESC Club Launches 2026 New Year STEM Program with 3D Printing Workshop at Mira Mesa Library">
+      <p>To welcome the 2026 New Year, ESC Club proudly launched its new 3D Printing STEM Program, expanding beyond its established MIT App Inventor coding classes to introduce students and families to cutting-edge 3D technology that bridges STEM education and creative art design.</p>
+    </div>
+
+    <div class="tl-entry">
+      <p class="date">December 15</p>
+      <h3><a href="../blog/esc-club-launches-cross-border-mit-app-inventor-coding-program-in-tijuana-fall-2025/">ESC Club Expands MIT App Inventor Fall Coding Program to Tijuana, Mexico Through Cross-Border Partnership</a></h3>
+      <div class="gallery">
+        <a href="https://escedu.org/wp-content/uploads/2025/12/Esc-Club-Fall-online-MIT-APP-coding-class-2025-Flyers.png"><img src="https://escedu.org/wp-content/uploads/2025/12/Esc-Club-Fall-online-MIT-APP-coding-class-2025-Flyers-768x1024.png" alt=""></a>
+        <a href="https://escedu.org/wp-content/uploads/2025/12/775a54032ccc091038ad61b7bd001120.jpg"><img src="https://escedu.org/wp-content/uploads/2025/12/775a54032ccc091038ad61b7bd001120-1024x576.jpg" alt=""></a>
+        <a href="https://escedu.org/wp-content/uploads/2025/12/IMG_0149.jpeg"><img src="https://escedu.org/wp-content/uploads/2025/12/IMG_0149-542x1024.jpeg" alt=""></a>
+        <a href="https://escedu.org/wp-content/uploads/2025/12/IMG_0246.jpg"><img src="https://escedu.org/wp-content/uploads/2025/12/IMG_0246-1024x576.jpg" alt=""></a>
+        <a href="https://escedu.org/wp-content/uploads/2025/12/IMG_0329.jpg"><img src="https://escedu.org/wp-content/uploads/2025/12/IMG_0329-1024x576.jpg" alt=""></a>
+        <a href="https://escedu.org/wp-content/uploads/2025/12/IMG_0325.jpg"><img src="https://escedu.org/wp-content/uploads/2025/12/IMG_0325-1024x576.jpg" alt=""></a>
+        <a href="https://escedu.org/wp-content/uploads/2025/12/52008C30-241A-44FD-B534-212777D74320-1.jpg"><img src="https://escedu.org/wp-content/uploads/2025/12/52008C30-241A-44FD-B534-212777D74320-1.jpg" alt=""></a>
+        <a href="https://escedu.org/wp-content/uploads/2025/12/IMG_0397.jpg"><img src="https://escedu.org/wp-content/uploads/2025/12/IMG_0397-1024x576.jpg" alt=""></a>
+        <a href="https://escedu.org/wp-content/uploads/2025/12/IMG_0663.jpg"><img src="https://escedu.org/wp-content/uploads/2025/12/IMG_0663-1024x576.jpg" alt=""></a>
+        <a href="https://escedu.org/wp-content/uploads/2025/12/5A10201C-99C1-4B16-958F-2B105B259A62-scaled.jpg"><img src="https://escedu.org/wp-content/uploads/2025/12/5A10201C-99C1-4B16-958F-2B105B259A62-576x1024.jpg" alt=""></a>
+        <a href="https://escedu.org/wp-content/uploads/2025/12/IMG_0954.jpeg"><img src="https://escedu.org/wp-content/uploads/2025/12/IMG_0954-1024x576.jpeg" alt=""></a>
+        <a href="https://escedu.org/wp-content/uploads/2025/12/IMG_0529.jpg"><img src="https://escedu.org/wp-content/uploads/2025/12/IMG_0529-1024x576.jpg" alt=""></a>
+        <a href="https://escedu.org/wp-content/uploads/2025/12/IMG_0526.jpg"><img src="https://escedu.org/wp-content/uploads/2025/12/IMG_0526-1024x576.jpg" alt=""></a>
+        <a href="https://escedu.org/wp-content/uploads/2025/12/IMG_0718.jpg"><img src="https://escedu.org/wp-content/uploads/2025/12/IMG_0718-1024x576.jpg" alt=""></a>
+        <a href="https://escedu.org/wp-content/uploads/2025/12/IMG_0995.jpeg"><img src="https://escedu.org/wp-content/uploads/2025/12/IMG_0995-1024x576.jpeg" alt=""></a>
+        <a href="https://escedu.org/wp-content/uploads/2025/12/0d638b05-ac19-4c58-9902-ec5d886d7f14.jpg"><img src="https://escedu.org/wp-content/uploads/2025/12/0d638b05-ac19-4c58-9902-ec5d886d7f14.jpg" alt=""></a>
+        <a href="https://escedu.org/wp-content/uploads/2025/12/IMG_0389.jpg"><img src="https://escedu.org/wp-content/uploads/2025/12/IMG_0389-1024x576.jpg" alt=""></a>
+        <a href="https://escedu.org/wp-content/uploads/2025/12/IMG_0324.jpg"><img src="https://escedu.org/wp-content/uploads/2025/12/IMG_0324-1024x576.jpg" alt=""></a>
+      </div>
+      <p>The ESC Club successfully expanded its Fall 2025 MIT App Inventor Coding Program beyond the U.S. border, launching a 10-session online coding series in collaboration with CWB Academy, a private school in Tijuana, Mexico. This initiative represents a major milestone in ESC Club’s mission to promote equitable access to STEM…
+      <a href="../blog/esc-club-launches-cross-border-mit-app-inventor-coding-program-in-tijuana-fall-2025/">Read More</a></p>
+    </div>
+
+    <div class="tl-entry">
+      <p class="date">December 13</p>
+      <h3><a href="../blog/rolling-tangyuan-with-lola-luna-culture-webinar-for-mexico-and-latina-communities/">Luna Culture Webinar for Mexico and Latina Communities-Rolling Tangyuan with Lola</a></h3>
+      <a href="https://escedu.org/wp-content/uploads/2025/12/Tangyuan-History-story.jpeg"><img src="https://escedu.org/wp-content/uploads/2025/12/Tangyuan-History-story-1024x768.jpeg" alt="Luna Culture Webinar for Mexico and Latina Communities-Rolling Tangyuan with Lola"></a>
+      <p>On December 13, 2025, as part of ESC Club’s ongoing Luna Culture Promotion Series for Mexico and Latina communities, ESC Club proudly hosted a special online cultural webinar titled “Rolling Tangyuan with Lola.” The virtual event brought Chinese Lunar traditions directly into Latino households through storytelling, food, and family participation.</p>
+    </div>
+
+    <div class="tl-entry">
+      <p class="date">November 15</p>
+      <h3><a href="../blog/lunar-culture-webinar-for-latino-families-wrapping-dumplings-with-chef-alex/">“Wrapping Dumplings with Chef Alex” Lunar Culture Webinar for Latino Families</a></h3>
+      <div class="gallery">
+        <a href="https://escedu.org/wp-content/uploads/2025/12/Dumpling-Chritmas-tree.jpeg"><img src="https://escedu.org/wp-content/uploads/2025/12/Dumpling-Chritmas-tree-833x1024.jpeg" alt=""></a>
+        <a href="https://escedu.org/wp-content/uploads/2025/12/Alex-Zoom-Screen-Cut.jpeg"><img src="https://escedu.org/wp-content/uploads/2025/12/Alex-Zoom-Screen-Cut-750x1024.jpeg" alt=""></a>
+        <a href="https://escedu.org/wp-content/uploads/2025/12/Wrap-dumpling-with-Chef-Alex-Flyer.jpeg"><img src="https://escedu.org/wp-content/uploads/2025/12/Wrap-dumpling-with-Chef-Alex-Flyer.jpeg" alt=""></a>
+        <a href="https://escedu.org/wp-content/uploads/2025/12/IMG_0821-Blur.jpeg"><img src="https://escedu.org/wp-content/uploads/2025/12/IMG_0821-Blur-1024x677.jpeg" alt=""></a>
+        <a href="https://escedu.org/wp-content/uploads/2025/12/IMG_0818-blur.jpeg"><img src="https://escedu.org/wp-content/uploads/2025/12/IMG_0818-blur.jpeg" alt=""></a>
+        <a href="https://escedu.org/wp-content/uploads/2025/12/Dumpling-history.jpeg"><img src="https://escedu.org/wp-content/uploads/2025/12/Dumpling-history-820x1024.jpeg" alt=""></a>
+        <a href="https://escedu.org/wp-content/uploads/2025/12/Wrap-dumpling-demo.jpeg"><img src="https://escedu.org/wp-content/uploads/2025/12/Wrap-dumpling-demo-803x1024.jpeg" alt=""></a>
+        <a href="https://escedu.org/wp-content/uploads/2025/12/IMG_0823.jpeg"><img src="https://escedu.org/wp-content/uploads/2025/12/IMG_0823-585x1024.jpeg" alt=""></a>
+        <a href="https://escedu.org/wp-content/uploads/2025/12/IMG_0817-blur.jpeg"><img src="https://escedu.org/wp-content/uploads/2025/12/IMG_0817-blur-736x1024.jpeg" alt=""></a>
+      </div>
+      <p>On November 15, 2025, as part of ESC Club’s ongoing Lunar Culture Promotion and multicultural outreach to the Latino community, ESC Club student leader Alex Tang hosted an interactive online webinar titled “Wrapping Dumplings with Chef Alex.” The event brought together students and families from Riverview Academy, with most participants…
+      <a href="../blog/lunar-culture-webinar-for-latino-families-wrapping-dumplings-with-chef-alex/">Read More</a></p>
+    </div>
+
+    <div class="tl-entry">
+      <p class="date">October 18</p>
+      <h3><a href="../blog/esc-club-brings-chinese-cultural-experiences-to-riverview-international-academys-cultural-festival/">ESC Club Brings Chinese Cultural Experiences to Riverview International Academy’s Cultural Festival</a></h3>
+      <a href="https://escedu.org/wp-content/uploads/2025/10/ESC-banner-with-High-Men-101825-2.jpg"><img src="https://escedu.org/wp-content/uploads/2025/10/ESC-banner-with-High-Men-101825-2-768x1024.jpg" alt="RIA Culture Festival"></a>
+      <p>The ESC Club was honored to participate in Riverview International Academy’s annual Cultural Festival, a joyful celebration of multicultural education and community diversity. Located in the Lakeside School District, Riverview International Academy is a unique trilingual public school offering instruction in English, Spanish, and Mandarin Chinese, serving a vibrant Latina…
+      <a href="../blog/esc-club-brings-chinese-cultural-experiences-to-riverview-international-academys-cultural-festival/">Read More</a></p>
+    </div>
+
+    <div class="tl-entry">
+      <p class="date">September 27</p>
+      <h3><a href="../blog/agi-international-ai-app-innovation-challenge-2025-award-ceremony/">AGI International AI/APP Innovation Challenge 2025 Award Ceremony</a></h3>
+      <a href="https://escedu.org/wp-content/uploads/2025/09/Banner-flyer-AI-APP-2025-1.jpg"><img src="https://escedu.org/wp-content/uploads/2025/09/Banner-flyer-AI-APP-2025-1-512x1024.jpg" alt="AGI International AI/APP Innovation Challenge 2025 Award Ceremony"></a>
+      <p>San Diego, CA — September 27, 2025 — The AGI International AI/APP Innovation Challenge proudly celebrated its 2025 Awards Ceremony on the beautiful campus of the University of California, San Diego (UCSD). ESC Club member are the winners of both junior high and Senior high gold reward. ESC club has…
+      <a href="../blog/agi-international-ai-app-innovation-challenge-2025-award-ceremony/">Read More</a></p>
+    </div>
+
+    <div class="tl-entry">
+      <p class="date">August 15</p>
+      <h3><a href="../mit-app-inventor-classes/2025-summer-online-classes-inspired-by-humanity-and-empowered-by-technology/">Aug 2025 ESC Club Hosts Second Summer Online MIT App Inventor Camp-Five Weekend Program</a></h3>
+      <figure>
+        <a href="https://escedu.org/wp-content/uploads/2025/09/MIT-APP-Inventor-25-online-class-Andy-3.pdf.jpg"><img src="https://escedu.org/wp-content/uploads/2025/09/MIT-APP-Inventor-25-online-class-Andy-3.pdf-1024x499.jpg" alt="Aug 2025 ESC Club Hosts Second Summer Online MIT App Inventor Camp-Five Weekend Program"></a>
+        <figcaption>MIT APP Inventor</figcaption>
+      </figure>
+      <p>ESC Club proudly wrapped up its second annual summer online MIT App Inventor camp, held from July 13 to August 10, 2025. This five-week series, open to students from 5th through 10th grade, was organized and led by ESC’s North California subchapter captains,…
+      <a href="../mit-app-inventor-classes/2025-summer-online-classes-inspired-by-humanity-and-empowered-by-technology/">Read More</a></p>
+    </div>
+
+    <div class="tl-entry">
+      <p class="date">July 26</p>
+      <h3><a href="../blog/esc-club-hosts-summer-cultural-bash-at-lakeside-public-library/">ESC Club Hosts Summer Cultural Bash at Lakeside Public Library</a></h3>
+      <figure>
+        <a href="https://escedu.org/wp-content/uploads/2025/08/chinese-bursh-handwriting-3-M.jpg"><img src="https://escedu.org/wp-content/uploads/2025/08/chinese-bursh-handwriting-3-M-768x1024.jpg" alt="ESC Club Hosts Summer Cultural Bash at Lakeside Public Library"></a>
+        <figcaption>My mission completion</figcaption>
+      </figure>
+      <p>On July 26, 2025, ESC Club partnered with Riverview International Academy PTSA to host a vibrant Summer Cultural Bash at the Lakeside Public Library. This special event aimed to promote Chinese culture and traditions while fostering multicultural understanding in the Lakeside community—a region…
+      <a href="../blog/esc-club-hosts-summer-cultural-bash-at-lakeside-public-library/">Read More</a></p>
+    </div>
+
+    <div class="tl-entry">
+      <p class="date">July 25</p>
+      <h3><a href="../blog/july-summer-day-trip-alex-tang-brings-coding-education-to-tijuana-with-cwb-summer-camp/">Brings Coding Education to Tijuana with CWB Summer Camp-Alex Tang</a></h3>
+      <a href="https://escedu.org/wp-content/uploads/2025/07/We-made-it.jpeg"><img src="https://escedu.org/wp-content/uploads/2025/07/We-made-it-1024x701.jpeg" alt="Brings Coding Education to Tijuana with CWB Summer Camp-Alex Tang"></a>
+      <p>07/25/2025 a special day trip this summer, ESC Club proudly joined hands with three other student organizations to deliver a high-impact, hands-on coding class at the Children Without Borders (CWB) Academy in Tijuana, Mexico. Representing our club was Alex Tang, who led a dynamic session that introduced coding to students aged 8–16—many…
+      <a href="../blog/july-summer-day-trip-alex-tang-brings-coding-education-to-tijuana-with-cwb-summer-camp/">Read More</a></p>
+    </div>
+
+    <div class="tl-entry">
+      <p class="date">July 11</p>
+      <h3><a href="../blog/esc-club-hosts-2025-summer-in-person-coding-week-at-grace-academy-in-san-diego/">ESC Club Hosts 2025 Summer In-Person Week-long Coding class at Grace Academy in San Diego</a></h3>
+      <a href="https://escedu.org/wp-content/uploads/2025/07/ESC-Coding-class-for-day-1-07092025-21-1.jpg"><img src="https://escedu.org/wp-content/uploads/2025/07/ESC-Coding-class-for-day-1-07092025-21-1-1024x771.jpg" alt="ESC Club Hosts 2025 Summer In-Person Week-long Coding class at Grace Academy in San Diego"></a>
+    </div>
+
+    <div class="tl-entry">
+      <p class="date">June 12</p>
+      <h3><a href="../blog/ashley-fang-represents-esc-club-at-riverview-mandarin-immersion/">Riverview Mandarin Immersion Program Promoting Cultural Understanding Through Chinese Dumpling-Making</a></h3>
+      <a href="https://escedu.org/wp-content/uploads/2025/07/图片_20250716194205-blur-mask-cover-3-scaled.jpg"><img src="https://escedu.org/wp-content/uploads/2025/07/图片_20250716194205-blur-mask-cover-3-1024x694.jpg" alt="ESC Club at Riverview Mandarin Immersion Program Promoting Cultural Understanding Through Chinese Dumpling-Making"></a>
+      <p>Lakeside, CA – June 12, 2025 — On the final day of school, Ashley Fang, a passionate member of the ESC (East Side Community) Club, visited Riverview International Academy’s Mandarin Immersion Program to lead a hands-on cultural workshop celebrating a beloved Chinese culinary tradition—dumpling-making.</p>
+    </div>
+
+    <div class="tl-entry">
+      <p class="date">May 24</p>
+      <h3><a href="../blog/volunteering-in-asian-pacific-heritage-festival-day/">Volunteering in Asian Pacific heritage festival day</a></h3>
+      <a href="https://escedu.org/wp-content/uploads/2025/05/9b1fc40e3f4d2b9488e8e2517d691184.jpg"><img src="https://escedu.org/wp-content/uploads/2025/05/9b1fc40e3f4d2b9488e8e2517d691184-1024x768.jpg" alt="Volunteering in Asian Pacific heritage festival day"></a>
+      <p>ESC Club Celebrates Chinese Heritage at San Diego Asian Pacific Cultural Festival Promoting Cultural Exchange Through Tradition, Art, and Community Engagement San Diego, CA – May 24, 2025 — Members of the ESC Club proudly volunteered at the 12th Annual Asian Pacific Cultural Festival of San Diego, held at Balboa Park’s…
+      <a href="../blog/volunteering-in-asian-pacific-heritage-festival-day/">Read More</a></p>
+    </div>
+
+    <div class="tl-entry">
+      <p class="date">May 24</p>
+      <h3><a href="../blog/esc-club-celebrates-cinco-de-mayo-with-trilingual-online-culture-webinar/">Celebrates Cinco De Mayo with Trilingual Online Culture Webinar</a></h3>
+      <a href="https://escedu.org/wp-content/uploads/2025/07/ESC-Cinco-De-Mayo-052425-S-1.png"><img src="https://escedu.org/wp-content/uploads/2025/07/ESC-Cinco-De-Mayo-052425-S-1-683x1024.png" alt="Celebrates Cinco De Mayo with Trilingual Online Culture Webinar"></a>
+    </div>
+
+    <div class="tl-entry">
+      <p class="date">April 6</p>
+      <h3><a href="../blog/2025-april-san-diego-ai-asu-gsv-show/">2025 April San Diego AI @ASU GSV Show</a></h3>
+      <a href="https://escedu.org/wp-content/uploads/2025/04/IMG_7732.jpeg"><img src="https://escedu.org/wp-content/uploads/2025/04/IMG_7732-1024x768.jpeg" alt="2025 April San Diego AI @ASU GSV Show"></a>
+      <p>ESC Club Explores the Cutting Edge at San Diego AI Show <a href="https://www.asugsvsummit.com/show">https://www.asugsvsummit.com/show</a> By Jaden Shen; Jonas Shen San Diego, CA – April 6, 2025 – On April 6th, members of the ESC Club attended one of the most exciting AI-focused events of the year in San Diego. The day was filled with…
+      <a href="../blog/2025-april-san-diego-ai-asu-gsv-show/">Read More</a></p>
+    </div>
+
+    <div class="tl-entry">
+      <p class="date">February 2</p>
+      <h3><a href="../blog/chinese-new-year-culture-promotion/">2025 FEB Lunar New Year Culture Promotion</a></h3>
+      <a href="https://escedu.org/wp-content/uploads/2025/04/IMG_6659.jpeg"><img src="https://escedu.org/wp-content/uploads/2025/04/IMG_6659-1024x768.jpeg" alt="2025 FEB Lunar New Year Culture Promotion"></a>
+      <p>In celebration of Lunar New Year, the ESC Club organized an engaging Diversity Culture Promotion event at one of San Diego’s public libraries. The event aimed to foster cultural understanding and appreciation by immersing both children and adults in the rich traditions of Chinese culture. Visitors were invited to sample…
+      <a href="../blog/chinese-new-year-culture-promotion/">Read More</a></p>
+    </div>
+
+    <div class="tl-entry">
+      <p class="date">January 4</p>
+      <h3><a href="../blog/esc-club-kicks-off-2025-recruiting-demo-in-library/">ESC Club Kicks Off 2025 with Exciting Recruitment Event and App Demos at Scripps Miramar Ranch Library</a></h3>
+      <a href="https://escedu.org/wp-content/uploads/2025/04/IMG_6305.jpeg"><img src="https://escedu.org/wp-content/uploads/2025/04/IMG_6305-1024x768.jpeg" alt="ESC Club Kicks Off 2025 with Exciting Recruitment Event"></a>
+      <p>ESC Club Kicks Off 2025 with Exciting Recruitment Event and App Demos at Scripps Miramar Ranch Library San Diego, CA — January 4, 2025 — The ESC Club rang in the new year with a vibrant and inspiring Recruitment Event at the Scripps Miramar Ranch Library, inviting students to dive into a world…
+      <a href="../blog/esc-club-kicks-off-2025-recruiting-demo-in-library/">Read More</a></p>
+    </div>
+
+    <!-- ===== SECTION: timeline-2024 ===== -->
+    <h2 class="tl-year">2024</h2>
+
+    <div class="tl-entry">
+      <p class="date">December 7</p>
+      <h3><a href="../2024-flea-market-for-kids/">2024 Flea Market for kids</a></h3>
+      <div class="gallery">
+        <a href="https://escedu.org/wp-content/uploads/2025/04/8987e1abe5897ff1eb76820c71c2e4ec-scaled.jpg"><img src="https://escedu.org/wp-content/uploads/2025/04/8987e1abe5897ff1eb76820c71c2e4ec-1024x768.jpg" alt=""></a>
+        <a href="https://escedu.org/wp-content/uploads/2025/04/60444882b8fdca4a5e8404b4a6cea7d4-scaled.jpg"><img src="https://escedu.org/wp-content/uploads/2025/04/60444882b8fdca4a5e8404b4a6cea7d4-1024x768.jpg" alt=""></a>
+        <a href="https://escedu.org/wp-content/uploads/2025/04/a559e38492e439be38ef4989c56be4b8-scaled.jpg"><img src="https://escedu.org/wp-content/uploads/2025/04/a559e38492e439be38ef4989c56be4b8-1024x768.jpg" alt=""></a>
+        <a href="https://escedu.org/wp-content/uploads/2025/04/4224a1f99b48d9b09be070a1e2d459c2-1.jpg"><img src="https://escedu.org/wp-content/uploads/2025/04/4224a1f99b48d9b09be070a1e2d459c2-1-1024x768.jpg" alt=""></a>
+        <a href="https://escedu.org/wp-content/uploads/2025/04/143f3e8d38454baf8afd92ddaa0c0f8e-scaled.jpg"><img src="https://escedu.org/wp-content/uploads/2025/04/143f3e8d38454baf8afd92ddaa0c0f8e-1024x768.jpg" alt=""></a>
+        <a href="https://escedu.org/wp-content/uploads/2025/04/15b068d450186e1cad90eb3aee46635c.jpeg"><img src="https://escedu.org/wp-content/uploads/2025/04/15b068d450186e1cad90eb3aee46635c-1024x768.jpeg" alt=""></a>
+        <a href="https://escedu.org/wp-content/uploads/2025/04/7e44ed125e71ac7ecda06d63a7f1a008.jpg"><img src="https://escedu.org/wp-content/uploads/2025/04/7e44ed125e71ac7ecda06d63a7f1a008-1024x768.jpg" alt=""></a>
+        <a href="https://escedu.org/wp-content/uploads/2025/04/4a80869608a56014df0c328879b54b70-scaled.jpg"><img src="https://escedu.org/wp-content/uploads/2025/04/4a80869608a56014df0c328879b54b70-1024x768.jpg" alt=""></a>
+        <a href="https://escedu.org/wp-content/uploads/2025/04/b60ef3fc11ea292ca07688dff0d66671-1.jpeg"><img src="https://escedu.org/wp-content/uploads/2025/04/b60ef3fc11ea292ca07688dff0d66671-1-1024x768.jpeg" alt=""></a>
+      </div>
+      <p>Date: [12/07/24 ] Time: [11:00AM-1:30PM] Location: [10760 Thornmint Rd, San Diego, 92127] Looking for a day of fun, creativity, and discovery? Bring your little ones to the Flea Market for Kids—an exciting event where kids can buy, sell, trade, and explore! What’s in Store? • Treasure Trove of Fun: Toys,…
+      <a href="../2024-flea-market-for-kids/">Read More</a></p>
+    </div>
+
+    <div class="tl-entry">
+      <p class="date">October 12</p>
+      <h3><a href="../blog/saic-celebrates-young-innovators-at-the-sd-steam-app-innovators-challenge-award-ceremony/">SAIC Celebrates Young Innovators at the SD STEAM App Innovators Challenge Award Ceremony</a></h3>
+      <a href="https://escedu.org/wp-content/uploads/2025/04/ESC-club-with-Grace-school-logo-Demo-our-APP-scaled.jpg"><img src="https://escedu.org/wp-content/uploads/2025/04/ESC-club-with-Grace-school-logo-Demo-our-APP-1024x683.jpg" alt="SAIC Celebrates Young Innovators at the SD STEAM App Innovators Challenge Award Ceremony"></a>
+      <p>Location: Hilton San Diego Delmar , CA 15575 Jimmy Durante Boulevard – Hilton Del Mar CA Time: 1:00-6:00 PM PST 10/12/2024 The San Diego STEAM App Innovators Challenge (SAIC) is thrilled to invite everyone to either show in person or virtually attend the SD STEAM App Innovators Challenge Award Ceremony! This…
+      <a href="../blog/saic-celebrates-young-innovators-at-the-sd-steam-app-innovators-challenge-award-ceremony/">Read More</a></p>
+    </div>
+
+    <div class="tl-entry">
+      <p class="date">July 23</p>
+      <h3><a href="../blog/esc-club-launches-global-virtual-coding-classes-for-students-aged-9-and-above/">ESC Club Launches Global Virtual Coding Classes for Students Aged 9 and Above</a></h3>
+      <a href="https://youtu.be/trwkp-zxQ44"><img src="https://img.youtube.com/vi/trwkp-zxQ44/hqdefault.jpg" alt="Video: ESC Club Launches Global Virtual Coding Classes"></a>
+      <p>ESC Club is excited to announce a series of virtual online coding classes for students aged 9 and above, available worldwide during the summer break of 2024. These innovative classes are designed to introduce young learners to the exciting world of coding without the need for difficult text-based languages. Class Features…
+      <a href="../blog/esc-club-launches-global-virtual-coding-classes-for-students-aged-9-and-above/">Read More</a></p>
+    </div>
+
+    <div class="tl-entry">
+      <p class="date">May 29</p>
+      <h3>2024.05.29-31 ESC Club Members Attend GEN AI Summit K12 Panel</h3>
+      <a href="https://youtu.be/aAfQ0MQg0gM"><img src="https://img.youtube.com/vi/aAfQ0MQg0gM/hqdefault.jpg" alt="Video: ESC Club Members Attend GEN AI Summit K12 Panel"></a>
+      <p>ESC Club Members Attend GEN AI Summit K12 Panel San Francisco, CA – May 29-31, 2024 – The members of the ESC Club proudly attended the GEN AI Summit K12 Panel, bringing with them their innovative robotics project and the award-winning app "Feed Me Smart." This prestigious event, held in…
+      Read More</p>
+    </div>
+
+    <div class="tl-entry">
+      <p class="date">April 11</p>
+      <h3><a href="../blog/the-congressional-app-challenge-house-of-code/">The Congressional App Challenge: House of Code</a></h3>
+      <a href="https://youtu.be/6y6rgewvR3I"><img src="https://img.youtube.com/vi/6y6rgewvR3I/hqdefault.jpg" alt="Video: The Congressional App Challenge: House of Code"></a>
+      <p>Our journey began with the creation of Feed Me Smart, an innovative app designed to help users find affordable, accessible, and healthy food options. We proudly entered Feed Me Smart into the Congressional App Challenge, and it was selected to represent District CA-51, which earned us an opportunity to attend…
+      <a href="../blog/the-congressional-app-challenge-house-of-code/">Read More</a></p>
+    </div>
+
+    <!-- ===== SECTION: timeline-2023 ===== -->
+    <h2 class="tl-year">2023</h2>
+
+    <div class="tl-entry">
+      <p class="date">November 8</p>
+      <h3>2023.11.08 Starting of the English/Spansish Speaker Leading Project</h3>
+      <a href="https://escedu.org/wp-content/uploads/2024/02/ESC-Club-Promotion-AD-11082023.png"><img src="https://escedu.org/wp-content/uploads/2024/02/ESC-Club-Promotion-AD-11082023-768x1024.png" alt="2023.11.08 Starting of the English/Spansish Speaker Leading Project"></a>
+      <p>2023.11.08 Starting of the English/Spansish Speaker Leading Project</p>
+    </div>
+
+    <!-- ===== SECTION: timeline-2022 ===== -->
+    <h2 class="tl-year">2022</h2>
+
+    <div class="tl-entry">
+      <p class="date">September 1</p>
+      <h3>2022.09.01 Obtained Spanish DELE A1 Diploma</h3>
+      <a href="https://escedu.org/wp-content/uploads/2024/02/640.jpg"><img src="https://escedu.org/wp-content/uploads/2024/02/640-300x300.jpg" alt="2022.09.01 Obtained Spanish DELE A1 Diploma"></a>
+      <p>（LINK）Members in ESC attended the DELE A1 for scholars test and obtained an internationally acknowledged Spanish Diploma certifying A1 level of competence and mastery of the Spanish language, granted by Spain's Ministry of Education, Culture and Sport.</p>
+    </div>
+
+    <!-- ===== SECTION: timeline-2021 ===== -->
+    <h2 class="tl-year">2021</h2>
+
+    <div class="tl-entry">
+      <p class="date">December 21</p>
+      <h3>2021.12.21 Winter break Volunteering Teaching at Grace Academy</h3>
+      <a href="https://escedu.org/wp-content/uploads/2024/02/Ａｌｅｘ　ｍａｋｅ　ｔｈｅ　ｐｅｒｓｅｎｔａｔｉｏｎ　ｆｏｒ　ＦＬＬ-class-students-group-12212021.jpg"><img src="https://escedu.org/wp-content/uploads/2024/02/Ａｌｅｘ ｍａｋｅ ｔｈｅ ｐｅｒｓｅｎｔａｔｉｏｎ ｆｏｒ ＦＬＬ-class-students-group-12212021-300x169.jpg" alt="2021.12.21 Winter break Volunteering Teaching at Grace Academy"></a>
+      <p>2021 12 21 Winter break Volunteering Teaching at Grace Academy. FLL class presentation to students.</p>
+    </div>
+
+    <div class="tl-entry">
+      <p class="date">October 31</p>
+      <h3>2021.10.31 Halloween Meeting With Mr. Diego</h3>
+      <a href="https://escedu.org/wp-content/uploads/2024/02/Weixin-Image_20240216144207.jpg"><img src="https://escedu.org/wp-content/uploads/2024/02/Weixin-Image_20240216144207-277x300.jpg" alt="2021.10.31 Halloween Meeting With Mr. Diego"></a>
+      <p>2021.10.31 Halloween Meeting With Mr. Diego</p>
+    </div>
+
+    <!-- ===== SECTION: timeline-2017 ===== -->
+    <h2 class="tl-year">2017</h2>
+
+    <div class="tl-entry">
+      <p class="date">November 12</p>
+      <h3><a href="../blog/initial-esc-group-in-mesa-verde-library/">2017 11.12 Initial ESC Group in Mesa Verde Library</a></h3>
+      <a href="https://escedu.org/wp-content/uploads/2024/02/Mira-Mesa-Library-spanish-class-photo-11122017.jpg"><img src="https://escedu.org/wp-content/uploads/2024/02/Mira-Mesa-Library-spanish-class-photo-11122017-200x300.jpg" alt="2017 11.12 Initial ESC Group in Mesa Verde Library"></a>
+      <p>Today, the club is created. We had our first group learning in San Diego Mira Mesa Library.</p>
+    </div>
+
+  </article>
+  <!-- ==================== CONTENT END ====================== -->
+</main>
+
+<div id="site-footer"></div>
+<script src="../assets/js/site.js"></script>
+</body>
+</html>

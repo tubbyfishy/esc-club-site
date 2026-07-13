@@ -1,0 +1,260 @@
+<!DOCTYPE html>
+<html lang="zh-CN" id="top">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>ESC Club — 以人文为魂，以科技为翼</title>
+<meta name="description" content="ESC Club 为加州、墨西哥和台湾各地的孩子带来 STEM 课程、文化交流和社区服务。">
+<link rel="icon" href="https://escedu.org/wp-content/uploads/2024/02/ESC-Club-Logo-print-300x300.png">
+<link href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700;900&family=Fraunces:wght@600;700&family=Noto+Sans+SC:wght@400;600;700;900&family=Noto+Serif+SC:wght@600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="../assets/css/style.css">
+<!-- PAGE CONFIG: language, path back to site root, this page's URL in each language -->
+<script>window.PAGE = { lang: 'zh', root: '../', translations: { en: '', zh: 'zh/', es: 'es/' } };</script>
+<style>
+  /* ---- homepage-only styles: hero slider ---- */
+  .slider { position: relative; border-radius: 28px; overflow: hidden; box-shadow: 12px 12px 0 var(--sun); }
+  .slide { display: none; position: relative; }
+  .slide.on { display: block; }
+  .slide img { width: 100%; aspect-ratio: 4/3; object-fit: cover; }
+  .slide .cap { position: absolute; left: 0; right: 0; bottom: 0; background: linear-gradient(transparent, rgba(58,46,42,.85)); color: #fff; padding: 40px 18px 14px; font-weight: 800; }
+  .slide .cap a { color: var(--sun); }
+  .slider .arrow { position: absolute; top: 50%; transform: translateY(-50%); background: rgba(255,255,255,.9); border: 0; border-radius: 50%; width: 40px; height: 40px; font-size: 1.1rem; cursor: pointer; font-weight: 900; color: var(--ink); }
+  .arrow.prev { left: 12px; } .arrow.next { right: 12px; }
+  /* team division tiles */
+  .divisions img { aspect-ratio: 16/10; object-fit: contain; background: #fff; padding: 12px; }
+</style>
+</head>
+<body>
+<a class="skip-link" href="#content">跳转到内容</a>
+<div id="site-header"></div>
+
+<main id="content">
+
+<!-- ================================================================
+     SECTION 1: HERO — tagline + photo slider
+     (All 10 original slider photos + their captions preserved.)
+     ================================================================ -->
+<section class="wrap hero">
+  <div>
+    <span class="kicker">教育 · 文化 · STEM</span>
+    <h1>以<em>人文</em>为魂，以<em>科技</em>为翼</h1>
+    <p>ESC Club 为南加州、北加州、墨西哥和台湾各地的孩子带来 STEM 课程、文化交流和社区服务。</p>
+    <div class="btns">
+      <a class="btn btn-primary" href="program/">探索项目！</a>
+      <a class="btn btn-secondary" href="contact/">联系我们</a>
+    </div>
+  </div>
+
+  <div class="slider" id="slider" aria-label="ESC Club 活动照片集锦">
+    <div class="slide on"><img src="https://escedu.org/wp-content/uploads/2024/07/Weixin-Image_20240725072430-2-scaled.jpg" alt="House of Code 2024"><div class="cap">2024年5月 House of Code</div></div>
+    <div class="slide"><img src="https://escedu.org/wp-content/uploads/2025/04/IMG_6302.jpeg" alt="团队活动"><div class="cap">团队活动</div></div>
+    <div class="slide"><img src="https://escedu.org/wp-content/uploads/2024/07/Weixin-Image_20240725074009.jpg" alt="ESC Club 活动"><div class="cap">团队活动</div></div>
+    <div class="slide"><img src="https://escedu.org/wp-content/uploads/2025/04/4a80869608a56014df0c328879b54b70-scaled.jpg" alt="2024 儿童跳蚤市场"><div class="cap"><a href="2024-flea-market-for-kids/">2024 儿童跳蚤市场 — 查看详情</a></div></div>
+    <div class="slide"><img src="https://escedu.org/wp-content/uploads/2025/04/IMG_4361.jpg" alt="2024 夏季线上研讨会"><div class="cap">2024 夏季线上研讨会</div></div>
+    <div class="slide"><img src="https://escedu.org/wp-content/uploads/2025/04/IMG_3622.jpeg" alt="2024 夏季线上 APP 课程"><div class="cap">2024 夏季线上 APP 课程</div></div>
+    <div class="slide"><img src="https://escedu.org/wp-content/uploads/2025/04/IMG_6629.jpeg" alt="2025 农历新年"><div class="cap">2025 农历新年</div></div>
+    <div class="slide"><img src="https://escedu.org/wp-content/uploads/2025/04/IMG_6653.jpeg" alt="2025 农历新年图书馆文化推广"><div class="cap">2025 农历新年图书馆文化推广</div></div>
+    <div class="slide"><img src="https://escedu.org/wp-content/uploads/2024/02/Ａｌｅｘ　ｍａｋｅ　ｔｈｅ　ｐｅｒｓｅｎｔａｔｉｏｎ　ｆｏｒ　ＦＬＬ-class-students-group-12212021.jpg" alt="2021年12月，本地学校免费机器人第一课"><div class="cap">本地学校免费机器人第一课 — 2021年12月</div></div>
+    <div class="slide"><img src="https://escedu.org/wp-content/uploads/2025/04/IMG_7732.jpeg" alt="2025 圣地亚哥 AI 展"><div class="cap">2025 圣地亚哥 AI 展</div></div>
+    <button class="arrow prev" onclick="moveSlide(-1)" aria-label="上一张">‹</button>
+    <button class="arrow next" onclick="moveSlide(1)" aria-label="下一张">›</button>
+  </div>
+</section>
+
+<!-- ================================================================
+     SECTION 2: MEET OUR TEAM — four regional divisions
+     ================================================================ -->
+<section class="section wrap">
+  <div class="section-head">
+    <h2>认识我们的团队</h2>
+    <p>我们的成员来自以下各个分部，我们欢迎志同道合者的加入！</p>
+  </div>
+  <div class="cards cols-4 divisions">
+    <div class="card"><a href="team/#southern-california"><img src="https://escedu.org/wp-content/uploads/2024/02/Southern_California_counties_in_red_noshade-1.png" alt="南加州地图"></a>
+      <div class="pad"><h3><a href="team/#southern-california">南加州总部</a></h3></div></div>
+    <div class="card"><a href="team/#northern-california"><img src="https://escedu.org/wp-content/uploads/2024/02/250px-Northern_California_counties_in_red-1.png" alt="北加州地图"></a>
+      <div class="pad"><h3><a href="team/#northern-california">北加州分部</a></h3></div></div>
+    <div class="card"><a href="team/#mexico"><img src="https://escedu.org/wp-content/uploads/2024/02/VTiAKsJntByGFeZ-800x450-noPad.jpg" alt="墨西哥地图"></a>
+      <div class="pad"><h3><a href="team/#mexico">墨西哥分部</a></h3></div></div>
+    <div class="card"><a href="team/#taiwan"><img src="https://escedu.org/wp-content/uploads/2026/02/China-Taiwan-map-scaled.png" alt="台湾地图"></a>
+      <div class="pad"><h3><a href="team/#taiwan">台湾分部</a></h3></div></div>
+  </div>
+</section>
+
+<!-- ================================================================
+     SECTION 3: EVENTS & ACTIVITIES — five most recent news posts
+     (On WordPress this was a dynamic feed; here it's a plain list —
+      when you add a new post page, copy one card and edit it.)
+     ================================================================ -->
+<section class="section wrap">
+  <div class="section-head">
+    <h2>以往的活动</h2>
+    <p>来自我们社区的最新动态 — <a href="../blog/">查看全部新闻</a></p>
+  </div>
+  <div class="cards">
+    <div class="card">
+      <a href="../blog/esc-club-brings-stem-culture-and-cross-border-friendship-to-cwb-tijuana-summer-camp-day/"><img src="https://escedu.org/wp-content/uploads/2026/06/Group-Picuture-with-CWB-Jeff-RV-scaled.jpg" alt="CWB 蒂华纳夏令营日合影"></a>
+      <div class="pad">
+        <span class="tag">边境友谊项目 · 外展活动</span>
+        <h3><a href="../blog/esc-club-brings-stem-culture-and-cross-border-friendship-to-cwb-tijuana-summer-camp-day/">ESC Club 将 STEM、文化与跨境友谊带到 CWB 蒂华纳夏令营日</a></h3>
+        <span class="meta">alex · 2026年6月18日 · 4 分钟阅读</span>
+        <p>2026年6月18日 | 墨西哥下加利福尼亚州蒂华纳 — ESC Club 再次来到蒂华纳的 CWB 学校……</p>
+        <a class="more" href="../blog/esc-club-brings-stem-culture-and-cross-border-friendship-to-cwb-tijuana-summer-camp-day/">阅读更多 →</a>
+      </div>
+    </div>
+    <div class="card">
+      <a href="../blog/esc-club-and-riverview-international-academy-celebrate-culture-community-and-learning-at-the-2026-summer-culture-day/"><img src="https://escedu.org/wp-content/uploads/2026/06/854-1.jpeg" alt="RIA 2026 夏季文化日"></a>
+      <div class="pad">
+        <span class="tag">文化推广 · 外展活动</span>
+        <h3><a href="../blog/esc-club-and-riverview-international-academy-celebrate-culture-community-and-learning-at-the-2026-summer-culture-day/">ESC Club 与 Riverview International Academy 举办 2026 夏季文化日，欢庆文化、社区与学习</a></h3>
+        <span class="meta">alex · 2026年6月7日 · 4 分钟阅读</span>
+        <p>2026年6月7日 | 加州圣地亚哥 — ESC Club 与 Riverview International Academy（RIA）携手合作……</p>
+        <a class="more" href="../blog/esc-club-and-riverview-international-academy-celebrate-culture-community-and-learning-at-the-2026-summer-culture-day/">阅读更多 →</a>
+      </div>
+    </div>
+    <div class="card">
+      <a href="../blog/esc-club-hosts-stem-learning-day-for-san-diego-navy-families/"><img src="https://escedu.org/wp-content/uploads/2026/06/1367.jpg" alt="2026年6月海军 STEM 日"></a>
+      <div class="pad">
+        <span class="tag">STEM · 外展活动</span>
+        <h3><a href="../blog/esc-club-hosts-stem-learning-day-for-san-diego-navy-families/">ESC Club 为圣地亚哥海军家庭举办 STEM 学习日</a></h3>
+        <span class="meta">alex · 2026年6月6日 · 3 分钟阅读</span>
+        <p>2026年6月6日 | 加州丘拉维斯塔 — ESC Club 为圣地亚哥海军家庭举办了 STEM 学习日……</p>
+        <a class="more" href="../blog/esc-club-hosts-stem-learning-day-for-san-diego-navy-families/">阅读更多 →</a>
+      </div>
+    </div>
+    <div class="card">
+      <a href="../blog/esc-club-cac-winners-represent-ca-52-district-at-the-u-s-capitol-for-house-of-code-2026/"><img src="https://escedu.org/wp-content/uploads/2026/04/CA52-Team-with-HOUSEOFCODE-sign.jpeg" alt="CA-52 团队在美国国会大厦 House of Code 标牌前"></a>
+      <div class="pad">
+        <span class="tag">外展活动 · STEM</span>
+        <h3><a href="../blog/esc-club-cac-winners-represent-ca-52-district-at-the-u-s-capitol-for-house-of-code-2026/">ESC Club CAC 获奖者代表 CA-52 选区赴美国国会参加 2026 House of Code</a></h3>
+        <span class="meta">alex · 2026年4月23日 · 3 分钟阅读</span>
+        <p>华盛顿特区 | 2026年4月21–22日 — ESC Club 为其国会 APP 挑战赛（CAC）学生获奖者感到骄傲……</p>
+        <a class="more" href="../blog/esc-club-cac-winners-represent-ca-52-district-at-the-u-s-capitol-for-house-of-code-2026/">阅读更多 →</a>
+      </div>
+    </div>
+    <div class="card">
+      <a href="../blog/esc-club-riverview-international-academy-host-2026-lunar-new-year-festival-celebrating-culture-stem-and-community/"><img src="https://escedu.org/wp-content/uploads/2026/02/Image_20260215124050_322_1017.jpg" alt="Riverview International Academy 2026 农历新年庆典"></a>
+      <div class="pad">
+        <span class="tag">3D 打印 · 文化推广 · 外展活动</span>
+        <h3><a href="../blog/esc-club-riverview-international-academy-host-2026-lunar-new-year-festival-celebrating-culture-stem-and-community/">ESC Club 与 Riverview International Academy 联合举办 2026 农历新年庆典，欢庆文化、STEM 与社区</a></h3>
+        <span class="meta">alex · 2026年2月16日 · 4 分钟阅读</span>
+        <p>加州湖滨市 — 2026年2月15日 — ESC Club 与 Riverview International Academy 携手合作——该校是当地唯一……</p>
+        <a class="more" href="../blog/esc-club-riverview-international-academy-host-2026-lunar-new-year-festival-celebrating-culture-stem-and-community/">阅读更多 →</a>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ================================================================
+     SECTION 4: ESC PROGRAMS — all seven original program blocks
+     ================================================================ -->
+<section class="section wrap">
+  <div class="section-head"><h2>ESC的项目</h2></div>
+  <div class="cards">
+    <div class="card">
+      <img src="https://escedu.org/wp-content/uploads/2025/04/Chile-ESC-subchapter.jpg" alt="Luna 文化线上研讨会参与者">
+      <div class="pad"><span class="tag">文化</span>
+        <h3><a href="online-language-resource/">面向墨西哥及拉丁社区的 Luna 文化线上研讨会</a></h3>
+        <p>我们每周五晚定期轮流主持 Friday Night Talk，与全球<a href="online-language-resource/">线上语言资源</a>的孩子们用不同语言进行 Zoom 交流。</p>
+      </div>
+    </div>
+    <div class="card">
+      <img src="https://escedu.org/wp-content/uploads/2025/04/IMG_6657.jpeg" alt="公共图书馆的文化多元活动">
+      <div class="pad"><span class="tag">文化</span>
+        <h3>多元文化推广</h3>
+        <p>在本地公共图书馆举办文化多元活动 — 请见我们的<a href="outreach/">外展活动</a>。</p>
+      </div>
+    </div>
+    <div class="card">
+      <img src="https://escedu.org/wp-content/uploads/2024/02/Ａｌｅｘ　ｍａｋｅ　ｔｈｅ　ｐｅｒｓｅｎｔａｔｉｏｎ　ｆｏｒ　ＦＬＬ-class-students-group-12212021-1024x576.jpg" alt="FLL 机器人课程展示">
+      <div class="pad"><span class="tag">STEM</span>
+        <h3><a href="stem-academic-classes/">STEM 学术课程</a></h3>
+        <p>我们为社区的孩子提供优质的 <a href="fll-robotic-classes/">FLL 机器人课程</a>和 <a href="3d-printing-classes/">3D 打印课程</a>。</p>
+      </div>
+    </div>
+    <div class="card">
+      <img src="https://escedu.org/wp-content/uploads/2025/04/IMG_7724-1024x768.jpeg" alt="参加 STEM 活动的学生">
+      <div class="pad"><span class="tag">STEM</span>
+        <h3>参加 STEM 活动</h3>
+        <p>俱乐部提供优质的 STEM 活动机会 — <a href="agi/">2025 AGI 创新 AI APP 挑战赛</a>。</p>
+      </div>
+    </div>
+    <div class="card">
+      <img src="https://escedu.org/wp-content/uploads/2024/07/Picture3.png" alt="AI / APP 创新课程">
+      <div class="pad"><span class="tag">STEM</span>
+        <h3><a href="mit-app-inventor-classes/">AI / APP 创新课程</a></h3>
+        <p>STEM for Latin and Beyond。</p>
+      </div>
+    </div>
+    <div class="card">
+      <img src="https://escedu.org/wp-content/uploads/2025/04/b60ef3fc11ea292ca07688dff0d66671.jpeg" alt="年度跳蚤市场上的孩子们">
+      <div class="pad"><span class="tag">年度活动</span>
+        <h3>年度儿童跳蚤市场</h3>
+        <p>激发创造力、责任感和创业思维。</p>
+      </div>
+    </div>
+    <div class="card">
+      <img src="https://escedu.org/wp-content/uploads/2024/02/pvsa_orig.jpg" alt="美国总统义工奖">
+      <div class="pad"><span class="tag">服务</span>
+        <h3><a href="volunteer-and-community-service/">志愿者与社区服务</a></h3>
+        <p>我们参加了美国总统义工奖（PVSA）项目，并将其扩展为现在的志愿者与社区服务项目。</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ================================================================
+     SECTION 5: "WANT TO CHECK OUT MORE?" call-to-action strip
+     ================================================================ -->
+<section class="section wrap">
+  <div class="strip">
+    <div>
+      <h2>想了解更多？</h2>
+      <p>点击按钮查看我们所有项目的详细信息。</p>
+    </div>
+    <a class="btn" href="program/">探索项目！</a>
+  </div>
+</section>
+
+<!-- ================================================================
+     SECTION 6: FREQUENTLY ASKED QUESTIONS (all four Q&As)
+     ================================================================ -->
+<section class="section wrap faq" style="max-width:820px">
+  <div class="section-head"><h2>常见问题</h2></div>
+  <details>
+    <summary>你们在教课时用什么语言？</summary>
+    <p>不同的课程使用不同的语言，比如西班牙语课主要用西班牙语，也会用部分英语。其它的课主要用英语上课。</p>
+  </details>
+  <details>
+    <summary>如果我想加入你们俱乐部，该联系谁？</summary>
+    <p>您可以在联系我们页面填写表单联系我们，或者直接发送邮件给我们。邮件也在联系我们页面。</p>
+  </details>
+  <details>
+    <summary>你们多久有一次活动？</summary>
+    <p>每周五的定期交流是每周一次。其他的课程不定期。</p>
+  </details>
+  <details>
+    <summary>需要更多信息？</summary>
+    <p>请联系我们获取更多问题答案。</p>
+  </details>
+  <p class="center" style="margin-top:24px"><a class="btn btn-primary" href="contact/">联系我们</a></p>
+</section>
+
+</main>
+
+<div id="site-footer"></div>
+<script src="../assets/js/site.js"></script>
+<script>
+  /* ---- hero slider: auto-advance every 5s, manual arrows ---- */
+  let slideIdx = 0;
+  const slides = document.querySelectorAll('#slider .slide');
+  function showSlide(i) {
+    slides[slideIdx].classList.remove('on');
+    slideIdx = (i + slides.length) % slides.length;
+    slides[slideIdx].classList.add('on');
+  }
+  function moveSlide(d) { showSlide(slideIdx + d); }
+  setInterval(() => moveSlide(1), 5000);
+</script>
+</body>
+</html>
