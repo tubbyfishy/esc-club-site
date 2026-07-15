@@ -137,6 +137,10 @@ li:hover > .dropdown, li:focus-within > .dropdown { display: block; }
 .prose blockquote { border-left: 4px solid var(--sky); padding-left: 18px; color: var(--muted); margin: 20px 0; }
 .note { background: var(--soft); border-radius: 14px; padding: 14px 18px; font-weight: 700; color: var(--muted); }
 
+/* responsive 16:9 video embed (YouTube/Vimeo iframes) */
+.video-embed { position: relative; width: 100%; aspect-ratio: 16/9; border-radius: 18px; overflow: hidden; margin: 20px 0; }
+.video-embed iframe { position: absolute; inset: 0; width: 100%; height: 100%; border: 0; }
+
 /* photo gallery grid inside pages */
 .gallery { display: grid; grid-template-columns: repeat(3, 1fr); gap: 12px; margin: 20px 0; }
 .gallery img { border-radius: 14px; aspect-ratio: 4/3; object-fit: cover; margin: 0; }
