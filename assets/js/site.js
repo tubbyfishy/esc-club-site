@@ -23,6 +23,7 @@ const ESC_NAV = {
       { label: 'Culture Promotion', group: true, children: [
         { label: 'Multi-ethnic cultural integration', href: 'online-language-resource/' },
         { label: 'Border Youth Research Project 🌟', href: 'border-youth-research-project/' },
+        { label: 'Crossing Borders, Building Futures', href: 'crossing-borders-building-futures/' },
         { label: 'Achievement', href: 'culture-promotion-achievement/' },
       ]},
       { label: 'STEM Promotion', group: true, children: [
