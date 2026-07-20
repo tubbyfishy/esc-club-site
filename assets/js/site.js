@@ -23,7 +23,6 @@ const ESC_NAV = {
       { label: 'Culture Promotion', group: true, children: [
         { label: 'Multi-ethnic cultural integration', href: 'online-language-resource/' },
         { label: 'Border Youth Research Project 🌟', href: 'border-youth-research-project/' },
-        { label: 'Crossing Borders, Building Futures', href: 'crossing-borders-building-futures/' },
         { label: 'Achievement', href: 'culture-promotion-achievement/' },
       ]},
       { label: 'STEM Promotion', group: true, children: [
@@ -34,6 +33,7 @@ const ESC_NAV = {
       ]},
       { label: 'Volunteer and Community Service', href: 'volunteer-and-community-service/' },
     ]},
+    { label: 'Crossing Borders', href: 'crossing-borders-building-futures/' },
     { label: 'Annual Events', children: [
       { label: 'Annual Hackathon', group: true, children: [
         { label: '2025 AGI Innovation AI APP Challenge', href: 'agi/' },
