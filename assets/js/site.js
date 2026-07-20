@@ -69,6 +69,7 @@ const ESC_NAV = {
       ]},
       { label: '志愿者与社区服务', href: 'zh/volunteer-and-community-service/' },
     ]},
+    { label: '跨越边境', href: 'crossing-borders-building-futures/' },
     { label: '年度活动', children: [
       { label: '年度黑客马拉松', group: true, children: [
         { label: '2025 AGI 创新 AI APP 挑战赛', href: 'zh/agi/' },
@@ -104,6 +105,7 @@ const ESC_NAV = {
       ]},
       { label: 'Voluntariado y Servicio Comunitario', href: 'es/volunteer-and-community-service/' },
     ]},
+    { label: 'Cruzando Fronteras', href: 'crossing-borders-building-futures/' },
     { label: 'Eventos Anuales', children: [
       { label: 'Hackathon Anual', group: true, children: [
         { label: '2025 AGI Innovation AI APP Challenge', href: 'es/agi/' },
