@@ -134,7 +134,7 @@ const ESC_FOOTER = {
         links: [['Programa','es/program/'],['Eventos Anuales','es/agi/'],['Noticias','blog/'],['Contacto','es/contact/']] },
 };
 
-const LOGO_URL = 'https://escedu.org/wp-content/uploads/2024/02/ESC-Club-Logo-print-300x300.png';
+const LOGO_PATH = 'assets/media/2024/02/ESC-Club-Logo-print-300x300.png';
 
 /* ---------- RENDERING (no need to edit below this line) ---------- */
 (function () {
@@ -167,7 +167,7 @@ const LOGO_URL = 'https://escedu.org/wp-content/uploads/2024/02/ESC-Club-Logo-pr
   <header class="site-header">
     <div class="wrap nav-bar">
       <a class="brand" href="${link(P.lang === 'en' ? '' : P.lang + '/')}">
-        <img src="${LOGO_URL}" alt="ESC Club logo">
+        <img src="${link(LOGO_PATH)}" alt="ESC Club logo">
         <span>ESC Club<small>ESCEDU.ORG</small></span>
       </a>
       <button class="nav-toggle" aria-label="Menu" onclick="document.querySelector('.nav-menu').classList.toggle('open')">☰</button>
