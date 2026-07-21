@@ -135,8 +135,7 @@ const ESC_FOOTER = {
 };
 
 const LOGO_PATH = 'assets/media/2024/02/ESC-Club-Logo-print-300x300.png';
-/* TODO: replace '#' with the real ESC Club Instagram URL once provided */
-const INSTAGRAM_URL = '#';
+const INSTAGRAM_URL = 'https://www.instagram.com/escedu_org/';
 
 /* ---------- RENDERING (no need to edit below this line) ---------- */
 (function () {
