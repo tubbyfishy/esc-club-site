@@ -153,11 +153,15 @@ li:hover > .dropdown, li:focus-within > .dropdown { display: block; }
 .faq details p { margin-top: 10px; }
 
 /* ---------- 9. FOOTER ---------- */
+.view-count { text-align: center; color: var(--muted); font-size: .78rem; font-weight: 700; letter-spacing: .03em; margin-top: 50px; }
 .site-footer { background: var(--ink); color: #EDE0D4; margin-top: 50px; padding: 40px 0 26px; }
+.view-count + .site-footer { margin-top: 18px; }
 .site-footer .cols { display: grid; grid-template-columns: 2fr 1fr 1fr; gap: 28px; margin-bottom: 26px; }
 .site-footer h4 { color: var(--sky); margin-bottom: 10px; }
 .site-footer a { color: #EDE0D4; text-decoration: none; }
 .site-footer a:hover { color: var(--sky); }
+.social-icon { display: inline-flex; margin-top: 14px; opacity: .85; }
+.social-icon:hover { opacity: 1; color: var(--sky); }
 .site-footer ul { list-style: none; padding: 0; display: grid; gap: 6px; }
 .copyright { border-top: 1px solid rgba(237,224,212,.25); padding-top: 18px; font-size: .85rem; display: flex; justify-content: space-between; flex-wrap: wrap; gap: 10px; }
 @media (max-width: 760px) { .site-footer .cols { grid-template-columns: 1fr; } }

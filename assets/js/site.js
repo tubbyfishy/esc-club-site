@@ -135,6 +135,8 @@ const ESC_FOOTER = {
 };
 
 const LOGO_PATH = 'assets/media/2024/02/ESC-Club-Logo-print-300x300.png';
+/* TODO: replace '#' with the real ESC Club Instagram URL once provided */
+const INSTAGRAM_URL = '#';
 
 /* ---------- RENDERING (no need to edit below this line) ---------- */
 (function () {
@@ -184,6 +186,9 @@ const LOGO_PATH = 'assets/media/2024/02/ESC-Club-Logo-print-300x300.png';
         <div>
           <h4>ESC Club</h4>
           <p>${ftr.tagline}</p>
+          <a class="social-icon" href="${INSTAGRAM_URL}" aria-label="Instagram" target="_blank" rel="noopener">
+            <svg viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width="2"><rect x="2" y="2" width="20" height="20" rx="5"/><circle cx="12" cy="12" r="4.2"/><circle cx="17.3" cy="6.7" r="1"/></svg>
+          </a>
         </div>
         <div>
           <h4>${ftr.quick}</h4>
@@ -204,4 +209,25 @@ const LOGO_PATH = 'assets/media/2024/02/ESC-Club-Logo-print-300x300.png';
       </div>
     </div>
   </footer>`;
+
+  /* ---------- PAGE VIEW COUNTER ----------
+     Free anonymous counter (api.counterapi.dev) — seeded once with each
+     page's historical view count from the old escedu.org WordPress site
+     (page-views-count plugin), then increments on every real visit. */
+  (function () {
+    const NAMESPACE = 'esc-club-escedu-org-2026';
+    const path = (P.translations?.[P.lang] ?? location.pathname).replace(/\/$/, '');
+    const key = encodeURIComponent((path === '' ? 'home' : path.replace(/\//g, '--')).slice(0, 90));
+    const viewsLabel = { en: 'total views', zh: '次浏览', es: 'visitas totales' }[P.lang] || 'total views';
+    fetch(`https://api.counterapi.dev/v1/${NAMESPACE}/${key}/up`)
+      .then((r) => r.json())
+      .then((d) => {
+        const count = d && d.count;
+        if (!count) return;
+        const footerNode = document.querySelector('.site-footer');
+        if (!footerNode) return;
+        footerNode.insertAdjacentHTML('beforebegin', `<p class="view-count">${count.toLocaleString()} ${viewsLabel}</p>`);
+      })
+      .catch(() => {});
+  })();
 })();
