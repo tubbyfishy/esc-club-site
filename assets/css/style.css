@@ -144,6 +144,9 @@ li:hover > .dropdown, li:focus-within > .dropdown { display: block; }
 /* photo gallery grid inside pages */
 .gallery { display: grid; grid-template-columns: repeat(3, 1fr); gap: 12px; margin: 20px 0; }
 .gallery img { border-radius: 14px; aspect-ratio: 4/3; object-fit: cover; margin: 0; }
+.gallery figure { margin: 0; }
+.gallery figure img { aspect-ratio: 3/4; }
+.gallery figure figcaption { font-size: .85rem; color: var(--muted); text-align: center; margin-top: 6px; }
 @media (max-width: 620px) { .gallery { grid-template-columns: 1fr 1fr; } }
 
 /* ---------- 8. FAQ ---------- */
